@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dtbrown123
+- 👀 I’m interested in software development and electrical engineering
+- 🌱 I’m currently learning data strucutres, algorithms, circuits
+- 📫 How to reach me dtbrown@mit.edu
